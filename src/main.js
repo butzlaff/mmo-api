@@ -3,7 +3,7 @@ import './style.css';
 const options = {
 	method: 'GET',
 	headers: {
-		'X-RapidAPI-Key': 'ec04978179msh9a8e9c12b95184ep12c2dajsn5d4cc5140ae6',
+		'X-RapidAPI-Key': 'YOUR CREDENCIAL HERE',
 		'X-RapidAPI-Host': 'mmo-games.p.rapidapi.com'
 	}
 };
